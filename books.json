@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "title": "Marchant of venice",
+        "author": "antonio",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "2",
+        "title": "Power",
+        "author": "Emmy",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "3",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "4",
+        "title": "1984",
+        "author": "George Orwell",
+        "status": "Borrowed",
+        "borrower": "Sameer",
+        "borrow_days": "5"
+    },
+    {
+        "id": "5",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "6",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "7",
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "status": "Borrowed",
+        "borrower": "Sara",
+        "borrow_days": "3"
+    },
+    {
+        "id": "8",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "9",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "status": "Borrowed",
+        "borrower": "Ali",
+        "borrow_days": "7"
+    },
+    {
+        "id": "10",
+        "title": "Jane Eyre",
+        "author": "Charlotte Bront\u00c3\u00ab",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "11",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "12",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "13",
+        "title": "Gulliver's Travel",
+        "author": "Shakespeare",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "14",
+        "title": "Will of Witches",
+        "author": "Jane Austin",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    },
+    {
+        "id": "15",
+        "title": "will see",
+        "author": "antonio",
+        "status": "Available",
+        "borrower": null,
+        "borrow_days": null
+    }
+]
